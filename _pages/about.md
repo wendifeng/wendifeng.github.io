@@ -10,7 +10,7 @@ redirect_from:
 
 Wendi Feng, Ph.D., is an Associate Professor at Beijing Information Science and Technology University (BISTU). Before joing BISTU, he received his Ph.D. from Beijing University of Posts and Telecommunications advised by Prof. [Junliang Chen](https://teacher.bupt.edu.cn/chenjunliang/en/index.htm) (Fellow of both Chinese Academy of Sciences and Chinese Academy of Engineering). He was also co-advised by Prof. [Zhi-Li Zhang](https://www-users.cs.umn.edu/~zhang089/) (Qwest Chair Professor, McKnight Distinguished University Professor, Fellow of IEEE) at the University of Minnesota - Twin Cities where he visited as a Ph.D. student. His research interests include high-performance NFV systems, RDMA-based data center networks, SDN deployment, and mobile systems.
 
-I'm a Master student supervisor, and <span style="color:red">I'm looking for **self-motivated, creative, and hard-working** graduate students under my advise.</span> Undergrads who have strong interests in network system research are also welcome to join my team. Please drop me an email with subject "Interested in MS or Undergraduate Research Opportunities".
+I'm a Master student supervisor, and <span style="color:red">I'm looking for **self-motivated, creative, and hard-working** graduate students under my advise.</span> Undergrads who have strong interests in network system research are also welcome to join my team. <span style="color:red">Please drop me an email with subject "Interested in MS or Undergraduate Research Opportunities".</span>
 
 
 Work Experiences
