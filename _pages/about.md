@@ -8,20 +8,28 @@ redirect_from:
   - /about.html
 ---
 
-Wendi Feng is now a Ph.D. candidate with Prof. [Junliang Chen](https://teacher.bupt.edu.cn/chenjunliang/en/index.htm) (Fellow of Chinese Academy of Sciences, Fellow of Chinese Academy of Engineering) at Beijing University of Posts and Telecommunications (BUPT). He is also co-advised by Prof. [Zhi-Li Zhang](https://www-users.cs.umn.edu/~zhang089/) (Qwest Chair Professor, McKnight Distinguished University Professor, Fellow of IEEE) at the University of Minnesota - Twin Cities. His research interests include high-performance NFV systems, RDMA-based data center networks, SDN deployment, and mobile systems. Before joining BUPT, Wendi Feng was ranked as the first while receiving his B.E. in Beijing Information Science and Technology University with the highest distinction.
+Wendi Feng, Ph.D., is an Associate Professor at Beijing Information Science and Technology University (BISTU). Before joing BISTU, he received his Ph.D. from Beijing University of Posts and Telecommunications advised by Prof. [Junliang Chen](https://teacher.bupt.edu.cn/chenjunliang/en/index.htm) (Fellow of both Chinese Academy of Sciences and Chinese Academy of Engineering). He was also co-advised by Prof. [Zhi-Li Zhang](https://www-users.cs.umn.edu/~zhang089/) (Qwest Chair Professor, McKnight Distinguished University Professor, Fellow of IEEE) at the University of Minnesota - Twin Cities where he visited as a Ph.D. student. His research interests include high-performance NFV systems, RDMA-based data center networks, SDN deployment, and mobile systems.
+
+I'm a Master student supervisor, and I'm looking for **self-motivated, creative, and hard-working** graduate students under my advise. Undergrads who have strong interests in network system research are also welcome to join my team. Please drop me an email with subject "Interested in MS or Undergraduate Research Opportunities".
+
+
+Work Experiences
+---
+- Dec. 2022 - Present, Associate Professor, Beijing Information Science and Technology University
+- Sep. 2021 - Dec. 2022, Lecturer, Beijing Information Science and Technology University, China
 
 
 Education
 ---
-- 10/2018 - Present, CSC-supported Co-advised PhD Student, Univerisity of Minnesota - Twin Cities, USA<br>
+- Oct. 2018 - Oct. 2020, CSC-supported Co-advised PhD Student, Univerisity of Minnesota - Twin Cities, USA<br>
   Major: Computer Networking, Advisor: Zhi-Li Zhang
-- 09/2017 - Present, PhD Student, Beijing University of Posts and Telecommunications, P.R. China<br>
+- Sep. 2017 - Jun. 2021, PhD Student, Beijing University of Posts and Telecommunications, Beijing, China<br>
   Major: Computer Networking, Advisor: Junliang Chen
-- 09/2016 - 06/2017, Master Student, Beijing University of Posts and Telecommunications, P.R. China<br>
+- Sep. 2016 - Jun. 2017, Master Student, Beijing University of Posts and Telecommunications, Beijing, China<br>
   Major: Mobile Systems, Advisor: Junliang Chen
-- 08/2014 - 09/2014, Summer School, Halmstad University, Sweden<br>
-  Lecture: FAT File System, Advisor: Mattias Wecksten
-- 09/2012 - 06/2016, Bachelor Degree, Beijing Information Science and Technology University, P.R. China<br>
+- Aug. 2014 - Sep. 2014, Summer School, Halmstad University, Halmstad, Sweden<br>
+  Lecture: FAT File System, Instructer: Mattias Wecksten
+- Sep. 2012 - Jun. 2016, Bachelor Degree, Beijing Information Science and Technology University, Beijing, China<br>
   Major: Computer Science, Ranked the first, Graduated with the highest distinction.
 
 
@@ -39,33 +47,25 @@ Selected Publications
 {% endfor %}
 
 
-Awards
----
-China Scholarship Council (CSC) scholarships, 2018, 2019, 2020.<br>
-Graduate Student Scholarship, BUPT, 2016,2017,2018,2019.<br>
-First-prize of Bachelor Scholarship, BISTU, 2013,2014,2015.<br>
-First-prize of Programming contest, BISTU, 2014. <br>
-Third-prize of ”Lan Qiao Competition” of Beijing, 2014.<br>
-National Scholarship (Top 1), China Ministry of Education, 2013.<br>
-First-prize of Math contest, BISTU 2013.<br>
-First-prize of Math modeling contest, BISTU, 2013.<br>
+
 
 
 Professional Services
 ---
-
-- Future Generation Computer Systems, Peer Review, 2019,2020
-- IEEE Access, Peer Review, 2018,2019,2020
-- EURASIP Journal on Wireless Communications and Networking, Peer Review, 2019
-
+Peer Reviews: IEEE Transactions on Network and Service Management, Journal of Network and Computer Applications, Future Generation Computer Systems, IEEE Access, EURASIP Journal on Wireless Communications and Networking
 
 
 Talks and Presentations
 ---
-
-- IEEE ICC'20 Presentation, Virtual Conference, Online, 6/2020
-- ACM CoNEXT'19, Poster Session, Orlando, Florida, USA, 12/2019
-- ACM MobiSys'18 Poster Session, Munich, Bavaria, Germany, 5/2018
+Invited Talks: 
+- *Research on State Management of Network Function Virtualization*, CCF Professional Symposium: Network and Software Services, Online, Aug. 2022
+- *Network Softwarization Helps Green Economy*, Symposium of Breakthrough Technologies in IT, Beijing, Oct. 2021
+Presentations:
+- IEEE INFOCOM'22, Poster Presentation, Virtual Conference, Online, May. 2022
+- ACM MobiCom'22, Poster Presentation, Sydney, Online, May. 2022
+- IEEE ICC'20 Presentation, Virtual Conference, Online, Jun. 2020
+- ACM CoNEXT'19, Poster Session, Orlando, Florida, USA, Dec. 019
+- ACM MobiSys'18 Poster Session, Munich, Bavaria, Germany, May. 2018
 
 
 
