@@ -1,5 +1,5 @@
 ---
-title: "S TATOEUVER: State-aware Load Balancing for Network Function Virtualization"
+title: "STATOEUVER: State-aware Load Balancing for Network Function Virtualization"
 collection: publications
 permalink: /publication/infocom_statoeuver
 date: 2022-05-02
