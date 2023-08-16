@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Wendi Feng (冯温迪)"
 title_separator          : "-"
 name                     : &name "Wendi Feng (冯温迪)"
-description              : &description "PhD Candidate in Computer Science of Beijing University of Posts and Telecommunications"
+description              : &description "Associate Professor at BISTU"
 url                      : https://wendifeng.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "wendifeng/wendifeng.github.io"
@@ -86,7 +86,7 @@ author:
 #   location         : "Beijing, P.R. China"
   employer         :
 #   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=GDb2szUAAAAJ&hl=en&oi=ao"
+  googlescholar    : "https://scholar.google.com/citations?user=GDb2szUAAAAJ"
   email            : wendi.feng@hotmail.com
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
