@@ -2,7 +2,7 @@
 title: "An End-host-importance-aware Secure Service-enabled Hybrid SDN Deployment"
 collection: publications
 permalink: /publication/tnsm_bonsec
-date: 2022-09-22
+date: 2023-06-01
 venue: 'IEEE Transactions on Network and Service Management'
 ---
 
