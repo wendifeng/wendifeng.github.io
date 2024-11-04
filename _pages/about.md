@@ -70,7 +70,7 @@ Presentations:
 - IEEE INFOCOM'22, Poster Presentation, Virtual Conference, Online, May. 2022
 - ACM MobiCom'22, Poster Presentation, Sydney, Online, May. 2022
 - IEEE ICC'20 Presentation, Virtual Conference, Online, Jun. 2020
-- ACM CoNEXT'19, Poster Session, Orlando, Florida, USA, Dec. 019
+- ACM CoNEXT'19, Poster Session, Orlando, Florida, USA, Dec. 2019
 - ACM MobiSys'18 Poster Session, Munich, Bavaria, Germany, May. 2018
 
 
