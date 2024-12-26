@@ -10,7 +10,6 @@ redirect_from:
 {% include base_path %}
 
 [[Résumé]](http://wendifeng.github.io/files/CV_wendi.pdf)<br/>
-[[中文简历]](http://wendifeng.github.io/files/CV_Chinese_wendi.pdf)
 
 
 
