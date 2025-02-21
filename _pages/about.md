@@ -48,6 +48,7 @@ Selected Publications
 
 Grants
 ---
+- National Science Foundation of China
 - Research and Development Program of Beijing Municipal Education Commission
 - National Key Research and Development Program of China
 - Open Foundation of State key Laboratory of Networking and Switching Technology (Beijing University of Posts and Telecommunications)
@@ -57,7 +58,7 @@ Grants
 
 Professional Services
 ---
-Peer Reviews: IEEE Transactions on Network and Service Management, Journal of Network and Computer Applications, Future Generation Computer Systems, IEEE Access, EURASIP Journal on Wireless Communications and Networking
+Peer Reviews: IEEE Transactions on Network and Service Management, IEEE Internet of Things Journal, Journal of Network and Computer Applications, Future Generation Computer Systems, IEEE Access, EURASIP Journal on Wireless Communications and Networking
 
 
 Talks and Presentations
